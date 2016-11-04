@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bot
+comment0.text=\n\ Write\ a\ description\ of\ class\ TuxBot\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Bot()
+comment2.params=speed\ batteryLevel
+comment2.target=Bot(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ TuxBot\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=java.lang.String\ battLevelString()
+comment6.params=
+comment6.target=java.lang.String\ directionString()
+numComments=7
